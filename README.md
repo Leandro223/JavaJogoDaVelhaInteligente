@@ -1,2 +1,3 @@
-# JavaJogoDaVelhaInteligente
-Jogo da Velha usando o algoritmo MinMax
+# Java Jogo Da Velha Inteligente :video_game:
+
+
